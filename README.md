@@ -4,9 +4,10 @@
 #include <vector>
 using namespace std;
 
-//This program will ask the user to input a list of numbers of any size and it will find the two largest values of said list
+//This program will ask the user to input a list of numbers of any size and it will find the two largest values in that list in one loop 
 
 //prototype for the function getlargest
+
 void getlargest(vector<int> &list);
 
 int main() {
